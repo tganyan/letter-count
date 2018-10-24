@@ -1,4 +1,4 @@
-# Letter Count
+# Letter Count ![travis badge](https://travis-ci.com/tganyan/letter-count.svg?branch=master)
 
 Write a function that takes in a string and returns the amount of times each letter occurs in the string.
 
